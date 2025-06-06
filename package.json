@@ -1,0 +1,30 @@
+{
+    "name": "create-aether-cms",
+    "version": "1.0.0",
+    "description": "Create Aether CMS projects with no build configuration",
+    "type": "module",
+    "bin": {
+        "create-aether-cms": "./bin/create-aether-cms.js"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LebCit/create-aether-cms.git"
+    },
+    "keywords": [
+        "aether",
+        "cms",
+        "create",
+        "website",
+        "blog",
+        "file-based",
+        "litenode",
+        "static-site",
+        "generator"
+    ],
+    "author": "LebCit",
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://aether-cms.pages.dev/"
+}
