@@ -1,6 +1,6 @@
 {
     "name": "create-aether-cms",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Create Aether CMS projects with no build configuration",
     "type": "module",
     "bin": {
